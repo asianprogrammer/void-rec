@@ -1,16 +1,16 @@
 {
   "name": "void-rec",
   "displayName": "Void Rec",
-  "description": "Just normal for now",
+  "description": "Pure dark color theme, Light and Fast",
   "publisher": "ParvezAhmed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "Logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/asianprogrammer/void-rec"
   },
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
