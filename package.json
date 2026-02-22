@@ -5,6 +5,10 @@
   "publisher": "ParvezAhmed",
   "version": "1.0.0",
   "icon": "Logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asianprogrammer/void-rec"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
