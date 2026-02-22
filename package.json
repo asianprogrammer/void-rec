@@ -1,0 +1,23 @@
+{
+  "name": "void-rec",
+  "displayName": "Void Rec",
+  "description": "Just normal for now",
+  "publisher": "ParvezAhmed",
+  "version": "1.0.0",
+  "icon": "Logo.png",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Void Rec",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Void Rec-color-theme.json"
+      }
+    ]
+  }
+}
