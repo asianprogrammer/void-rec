@@ -1,9 +1,14 @@
-# Change Log
-
-All notable changes to the "void-rec" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [released]
+#### Version 1.0.0
 
 - Initial release
+
+#### Version 1.1.0
+
+- Updated syntax highlighting
+
+#### Version 2.0.0
+
+- Fixed minimap background
+- Updated menu colors (background and text)
+- Updated terminal colors (cursor and text)
+- Updated debugging mode status bar background
