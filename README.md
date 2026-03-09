@@ -14,7 +14,7 @@ A minimalist, `open-source` theme with a clean dark aesthetic. Install and exper
 
 
 ###
-![image](image.png)
+![image](527_1x_shots_so.jpeg)
 
 ⭐ **Star us on GitHub** • 🚀 **Install now** • 💬 **Share feedback**
 </div>
